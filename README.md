@@ -22,4 +22,9 @@
 ---
 ### GitHub Stats:
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SomeRandom-Dev&show_icons=true&theme=radical&hide-border=true)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SomeRandom-Dev&show_icons=true&theme=radical&hide-border=true)](https://github.com/SomeRandom-Dev/)
+
+---
+### Most Used Languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SomeRandom-Dev&theme=radical)](https://github.com/SomeRandom-Dev/)
