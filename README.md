@@ -16,6 +16,10 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="C#" width="26px" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" />
+<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1024px-Visual_Studio_2017_Logo.svg.png" />
+<img align="left" alt="Python" width="26px" src="https://insidehpc.com/wp-content/uploads/2016/01/Python-logo-notext.svg_.png" />
+<img align="left" alt="Codepen" width="26px" src="https://maxcdn.icons8.com/Android_L/PNG/512/Logos/codepen-512.png" />
 <br />
 <br />
 
