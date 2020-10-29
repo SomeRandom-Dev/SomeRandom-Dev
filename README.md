@@ -20,7 +20,7 @@
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Visual_Studio_2017_Logo.svg/1024px-Visual_Studio_2017_Logo.svg.png" />
 <img align="left" alt="Python" width="26px" src="https://insidehpc.com/wp-content/uploads/2016/01/Python-logo-notext.svg_.png" />
 <img align="left" alt="Codepen" width="26px" src="https://maxcdn.icons8.com/Android_L/PNG/512/Logos/codepen-512.png" />
-<img align="left" alt="Apache" width="26px" src="https://www.losthighwaymedia.com/images/apache_logo.png" />
+<img align="left" alt="Apache" width="26px" src="https://endertech.com/wp-content/uploads/2017/09/apache-logo.png" />
 <br />
 <br />
 
