@@ -1,9 +1,4 @@
-### Hi there, you've found me!
-
-## I'm just an ordinary developer
-
--  I’m not really doing anything interesting 😂
--  I’m currently learning whatever 🤣
+### sus detekted
 
 <br />
 
