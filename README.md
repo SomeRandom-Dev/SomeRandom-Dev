@@ -20,11 +20,6 @@
 <br />
 
 ---
-### What I'm currently listening to
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l50ew0kswxhc7i1v1e7p621oa&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=l50ew0kswxhc7i1v1e7p621oa&redirect=true)
-
----
 ### GitHub Stats:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SomeRandom-Dev&show_icons=true&theme=radical&hide-border=true)](https://github.com/SomeRandom-Dev/)
