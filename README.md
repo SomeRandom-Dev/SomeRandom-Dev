@@ -1,8 +1,8 @@
-<p align="center"><a href=""><img src="https://discord.c99.nl/widget/theme-4/814183949659668540.png" /><a></p>
+<p align="center"><a href="https://discord.com/users/814183949659668540"><img src="https://discord.c99.nl/widget/theme-4/814183949659668540.png" /></a></p>
 
 
 ---
-  
+<!-- 
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -21,13 +21,16 @@
 <br />
 
 ---
-### GitHub Stats:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SomeRandom-Dev&show_icons=true&theme=radical&hide-border=true)](https://github.com/SomeRandom-Dev/)
+-->
+<!--### GitHub Stats:-->
+<p align="center"><a href="https://github.com/SomeRandom-Dev"><img src="https://github-readme-stats.vercel.app/api?username=SomeRandom-Dev&show_icons=true&theme=radical&hide-border=true&hide=commits" /></a></p>
 
 ---
-### Most Used Languages:
+<!--### Most Used Languages:-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SomeRandom-Dev&theme=radical)](https://github.com/SomeRandom-Dev/)
+<p align="center"><a href="https://github.com/SomeRandom-Dev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomeRandom-Dev&theme=radical" /></a></p>
 
-![](https://api.ghprofile.me/view?username=SomeRandom-Dev)
+---
+
+<p align="center"><a href="https://github.com/SomeRandom-Dev"><img src="https://api.ghprofile.me/view?username=SomeRandom-Dev" /></a></p>
