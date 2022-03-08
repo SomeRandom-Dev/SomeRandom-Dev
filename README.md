@@ -3,10 +3,10 @@
 
 ---
 # shrek
-<img src="https://github.com/SomeRandom-Dev/iloveffmpeg/blob/master/iloveshrek.webp?raw=true" align="center" alt="shrek real"></img>
+<a href="https://github.com/SomeRandom-Dev/iloveffmpeg/raw/master/realshrek.md" align="center" style="text-align: center;">real shrek real</a>
 ---
 # movie of the bee
-<img src="https://github.com/somerandompiggo/somerandompiggo/raw/main/bee-movie.webp" align="center" alt="movie of the bee"></img>
+<a href="https://github.com/SomeRandom-Dev/iloveffmpeg/raw/master/movie_of_the_bee.md" align="center" style="text-align: center;">movie of the bee</a>
 ---
 <!-- 
 ### Languages and Tools:
