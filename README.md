@@ -36,6 +36,10 @@ all apart from movie of the bee currently broken due to github no longer display
 <p align="center"><a href="https://github.com/SomeRandom-Dev"><img src="https://github-readme-stats.vercel.app/api?username=SomeRandom-Dev&show_icons=true&theme=radical&hide-border=true&hide=commits" /></a></p>
 
 ---
+
+<p align="center"><a href="https://github.com/SomeRandom-Dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SomeRandom-Dev&theme=radical&hide_border=false" /></a></p>
+
+---
 <!--### Most Used Languages:-->
 
 <p align="center"><a href="https://github.com/SomeRandom-Dev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SomeRandom-Dev&theme=radical" /></a></p>
