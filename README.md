@@ -13,7 +13,7 @@ all apart from movie of the bee currently broken due to github no longer display
 ----->
 <center>
 <a href="https://www.abuseipdb.com/user/52667" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
-	<img src="https://www.abuseipdb.com/contributor/52667.svg" alt="AbuseIPDB Contributor Badge" style="width: 391px;color:white !important;background: rgb(13, 17, 23);padding: 5px;">
+	<img src="https://www.abuseipdb.com/contributor/52667.svg" alt="AbuseIPDB Contributor Badge" style="width: 391px;background: rgb(253,253,253);padding: 5px;">
 </a>
 </center>
 <!-- 
