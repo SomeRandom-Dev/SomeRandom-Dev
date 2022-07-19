@@ -11,11 +11,6 @@
 <a href="https://github.com/SomeRandom-Dev/iloveffmpeg/blob/master/sponge.md" align="center" style="text-align:center">sponge the bob (2004)</a><br>
 all apart from movie of the bee currently broken due to github no longer displaying lfs files in the browser
 ----->
-<center>
-<a href="https://www.abuseipdb.com/user/52667" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
-	<img src="https://www.abuseipdb.com/contributor/52667.svg" alt="AbuseIPDB Contributor Badge" style="width: 391px;background: rgb(253,253,253);padding: 5px;">
-</a>
-</center>
 <!-- 
 ### Languages and Tools:
 
