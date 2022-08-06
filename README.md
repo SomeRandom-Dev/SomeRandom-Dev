@@ -1,6 +1,3 @@
-<center>
-  <img align="center" style="text-align:center" src="https://komarev.com/ghpvc/?username=SomeRandom-Dev" />
-</center>
 <p align="center"><a href="https://discord.com/users/917517972778680390"><img src="https://discord.c99.nl/widget/theme-4/917517972778680390.png" /></a></p>
 <p align="center"><a href="https://discord.com/users/927958426124955720"><img src="https://discord.c99.nl/widget/theme-4/927958426124955720.png" /></a></p>
 
