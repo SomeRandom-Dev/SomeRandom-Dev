@@ -6,7 +6,7 @@
 
 <br />
 
-<p align="center"><a href="https://github.com/SomeRandom-Dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SomeRandom-Dev&theme=radical&hide_border=false" /></a></p>
+<p align="center"><a href="https://github.com/SomeRandom-Dev"><img src="https://streak-stats.demolab.com/?user=SomeRandom-Dev&theme=radical&hide_border=false" /></a></p>
 
 <!-----
 
